@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-18T16:15:08 EEST" name="Parasoft Demo Website Suite" finished-at="2026-06-18T16:15:15 EEST" duration-ms="7131">
+    <groups>
+    </groups>
+    <test started-at="2026-06-18T16:15:08 EEST" name="Footer navigation" finished-at="2026-06-18T16:15:15 EEST" duration-ms="7131">
+      <class name="com.example.ParasoftFooterNavigationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.ParasoftFooterNavigationTest@4a94ee4]" started-at="2026-06-18T16:15:08 EEST" name="setUp" finished-at="2026-06-18T16:15:09 EEST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="footerNavigationScenario()[pri:0, instance:com.example.ParasoftFooterNavigationTest@4a94ee4]" started-at="2026-06-18T16:15:09 EEST" name="footerNavigationScenario" description="Footer navigation, second-window handling and return to the main page" finished-at="2026-06-18T16:15:15 EEST" duration-ms="6074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerNavigationScenario -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.ParasoftFooterNavigationTest@4a94ee4]" started-at="2026-06-18T16:15:15 EEST" name="tearDown" finished-at="2026-06-18T16:15:15 EEST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.ParasoftFooterNavigationTest -->
+    </test> <!-- Footer navigation -->
+  </suite> <!-- Parasoft Demo Website Suite -->
+</testng-results>

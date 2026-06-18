@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Parasoft Demo Website Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Footer navigation(failed)" verbose="0">
+    <classes>
+      <class name="com.example.ParasoftFooterNavigationTest">
+        <methods>
+          <include name="footerNavigationScenario"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.example.ParasoftFooterNavigationTest -->
+    </classes>
+  </test> <!-- Footer navigation(failed) -->
+</suite> <!-- Failed suite [Parasoft Demo Website Suite] -->
